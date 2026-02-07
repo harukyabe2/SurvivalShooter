@@ -1,0 +1,14 @@
+# Macのシステムファイル
+.DS_Store
+
+# VS Codeの個人設定
+.vscode/
+
+# ビルドの生成物
+*.o
+*.dSYM/
+build/
+
+# 実行ファイルの名前
+Chapter03_Game_Practice
+MyGame
